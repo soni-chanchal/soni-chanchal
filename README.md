@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Santosh%20Kumar%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanchal %20Soni%20&fontAlignY=40&color=gradient)
 
 # Hi👋 I'm Chanchal Soni
 
